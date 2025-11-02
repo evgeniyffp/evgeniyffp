@@ -1,6 +1,6 @@
 ## Hi, I'm Evgeniy 👋
 
-👨‍💻 Junior C++ developer<br/>
+👨‍💻 Middle C++ developer<br/>
 📱 Contact me on [Telegram](https://t.me/evgeniyffp)<br/>
 
 # 💻 Tech Stack:
